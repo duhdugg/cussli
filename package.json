@@ -1,0 +1,14 @@
+{
+  "name": "cussli",
+  "version": "0.1.0",
+  "description": "command line interface to cuss",
+  "main": "cussli.js",
+  "bin": "cussli",
+  "repository": "https://github.com/duhdugg/cussli/",
+  "author": "Doug Elkin <doug@dougelkin.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cuss": "^1.21.0"
+  }
+}
