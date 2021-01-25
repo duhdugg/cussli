@@ -2,8 +2,6 @@
 
 > cussli is a command-line interface to cuss
 
-## requirements, node
-
 ## installation
 
 ```bash
