@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-const cuss = require('cuss')
-
 const labels = {
   undefined: 'unknown',
   0: 'unlikely',
@@ -19,4 +17,7 @@ if (!word) {
   process.exit(1)
 }
 
-console.debug(labels[cuss[word]])
+(async () => {
+  const { cuss } = await import('cuss')
+  console.log(labels[cuss[word]])
+})()

@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-cuss@^1.21.0:
-  version "1.21.0"
-  resolved "https://registry.yarnpkg.com/cuss/-/cuss-1.21.0.tgz#1aba3bb911fadda8566855ed036295af8116be40"
-  integrity sha512-X3VvImImJ5q6w0wOgJtxAX+RC06d26egp/A/vdSxqOrsRtAA9biXAkc4PZGj/3gx0+z+gDFri6BpcpwuG1/UEw==
+cuss@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/cuss/-/cuss-2.0.0.tgz#7f88210a9dfe3cd60834f1d82af97b62be44f89f"
+  integrity sha512-EHbh7F4GHvgyuakXeic9wtfeEYves17MxLpgIsljCbaDil6auJVsTTLV/qwkZ58+Gu+NKmMHVQm81J3BcEqwUg==

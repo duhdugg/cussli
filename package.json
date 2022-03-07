@@ -9,6 +9,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "cuss": "^1.21.0"
+    "cuss": "^2.0.0"
   }
 }
