@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "command line interface to cuss",
   "main": "cussli.js",
-  "bin": "cussli",
+  "bin": "cussli.js",
   "repository": "https://github.com/duhdugg/cussli/",
   "author": "Doug Elkin <doug@dougelkin.com>",
   "license": "MIT",
